@@ -35,6 +35,10 @@
                 </li>
 
                 <li>
+                    <a href="{{ url('/#pricing') }}">Pricing</a>
+                </li>
+
+                <li>
                     <a href="{{ url('/#why-us') }}">Why Choose Us</a>
                 </li>
 

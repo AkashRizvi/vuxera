@@ -1,4 +1,4 @@
-<section id="pricing-8" class="pricing-8 section">
+<section id="pricing" class="pricing-8 section">
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
@@ -35,7 +35,7 @@
 
                 <div class="price">
                   <span class="currency">£</span>
-                  <span class="amount">199</span>
+                  <span class="amount">159</span>
                 </div>
 
               </div>
@@ -46,9 +46,23 @@
 
                   <li> <i class="bi bi-check-circle-fill"></i> UK LTD Company Formation </li>
 
-                  <li> <i class="bi bi-check-circle-fill"></i> PSC Code for Director </li>
+                  <li> <i class="bi bi-check-circle-fill"></i> UK LTD Verification ( PSC Code ) </li>
 
                   <li> <i class="bi bi-check-circle-fill"></i> Company Fee Included </li>
+
+                  <li> <i class="bi bi-check-circle-fill"></i> Ltd Filling Fee ( Worth £50 ) </li>
+
+                  <li> <i class="bi bi-check-circle-fill"></i> Incorporation Certificate </li>
+
+                  <li> <i class="bi bi-check-circle-fill"></i> Company registration Certificate </li>
+
+                  <li> <i class="bi bi-check-circle-fill"></i> UK Company house login </li>
+
+                  <li> <i class="bi bi-check-circle-fill"></i> Company Gateway ID </li>
+
+                  <li> <i class="bi bi-check-circle-fill"></i> Articles of Association </li>
+
+                  <li> <i class="bi bi-check-circle-fill"></i> Free Consultation </li>
 
                   <li class="disabled"><i class="bi bi-x-circle-fill"></i> UK Business Bank Account</li>
 
@@ -60,9 +74,14 @@
 
                   <li class="disabled"><i class="bi bi-x-circle-fill"></i> Document Via email</li>
 
-                  <li class="disabled"><i class="bi bi-x-circle-fill"></i> Corporate Professional Website</li>
-
                   <li class="disabled"><i class="bi bi-x-circle-fill"></i> Amazon Account Creation</li>
+
+                  <li class="disabled"><i class="bi bi-x-circle-fill"></i> Corporate Professional Website </li>
+
+                  <li class="disabled"><i class="bi bi-x-circle-fill"></i> Free Professional Email </li>
+
+                  <li class="disabled"><i class="bi bi-x-circle-fill"></i> Free .com or .co.uk domain </li>
+
                 </ul>
 
               </div>
@@ -91,7 +110,7 @@
                 <h3>Business Starter</h3>
 
                 <p>
-                  Complete setup package for launching your UK business professionally.
+                  Complete setup package for UK business professionally.
                 </p>
 
               </div>
@@ -100,7 +119,7 @@
 
                 <div class="price">
                   <span class="currency">£</span>
-                  <span class="amount">299</span>
+                  <span class="amount">270</span>
                 </div>
 
               </div>
@@ -111,9 +130,23 @@
 
                   <li> <i class="bi bi-check-circle-fill"></i> UK LTD Company Formation </li>
 
-                  <li> <i class="bi bi-check-circle-fill"></i> PSC Code Setup </li>
+                  <li> <i class="bi bi-check-circle-fill"></i> UK LTD Verification (PSC Code) </li>
 
                   <li> <i class="bi bi-check-circle-fill"></i> Company Fee Included </li>
+
+                  <li> <i class="bi bi-check-circle-fill"></i> Ltd Filling Fee ( Worth £50 ) </li>
+
+                  <li> <i class="bi bi-check-circle-fill"></i> Incorporation Certificate </li>
+
+                  <li> <i class="bi bi-check-circle-fill"></i> Company registration Certificate </li>
+
+                  <li> <i class="bi bi-check-circle-fill"></i> UK Company house login </li>
+
+                  <li> <i class="bi bi-check-circle-fill"></i> Company Gateway ID </li>
+
+                  <li> <i class="bi bi-check-circle-fill"></i> Articles of Association </li>
+
+                  <li> <i class="bi bi-check-circle-fill"></i> Free Consultation </li>
 
                   <li> <i class="bi bi-check-circle-fill"></i> UK Business Bank Account </li>
 
@@ -125,13 +158,20 @@
 
                   <li><i class="bi bi-check-circle-fill"></i> Document Via email</li>
 
-                  <li class="disabled"><i class="bi bi-x-circle-fill"></i> Corporate Professional Website</li>
-
                   <li class="disabled"><i class="bi bi-x-circle-fill"></i> Amazon Account Creation</li>
+
+                  <li class="disabled"><i class="bi bi-x-circle-fill"></i> Corporate Professional Website </li>
+
+                  <li class="disabled"><i class="bi bi-x-circle-fill"></i> Free Professional Email </li>
+
+                  <li class="disabled"><i class="bi bi-x-circle-fill"></i> Free .com or .co.uk domain </li>
+
 
                 </ul>
 
               </div>
+
+  <!-- 3rd Pricing Card -->
 
               <div class="plan-cta">
                 <a href="#contact" class="btn-plan">Start Business Starter</a>
@@ -173,40 +213,45 @@
 
                 <ul>
 
-                  <li> <i class="bi bi-check-circle-fill"></i> UK LTD Company Formation </li>
+                   <li> <i class="bi bi-check-circle-fill"></i> UK LTD Company Formation </li>
 
-                  <li> <i class="bi bi-check-circle-fill"></i> PSC Code Setup </li>
+                  <li> <i class="bi bi-check-circle-fill"></i> UK LTD Verification (PSC Code) </li>
 
                   <li> <i class="bi bi-check-circle-fill"></i> Company Fee Included </li>
+
+                  <li> <i class="bi bi-check-circle-fill"></i> Ltd Filling Fee ( Worth £50 ) </li>
+
+                  <li> <i class="bi bi-check-circle-fill"></i> Incorporation Certificate </li>
+
+                  <li> <i class="bi bi-check-circle-fill"></i> Company registration Certificate </li>
+
+                  <li> <i class="bi bi-check-circle-fill"></i> UK Company house login </li>
+
+                  <li> <i class="bi bi-check-circle-fill"></i> Company Gateway ID </li>
+
+                  <li> <i class="bi bi-check-circle-fill"></i> Articles of Association </li>
+
+                  <li> <i class="bi bi-check-circle-fill"></i> Free Consultation </li>
 
                   <li> <i class="bi bi-check-circle-fill"></i> UK Business Bank Account </li>
 
                   <li> <i class="bi bi-check-circle-fill"></i> Office Address (3 Months) </li>
 
-                  <li><i class="bi bi-check-circle-fill"></i> Authentication Code</li>
+                  <li> <i class="bi bi-check-circle-fill"></i> Authentication Code</li>
 
-                  <li><i class="bi bi-check-circle-fill"></i> UTR of Company</li>
+                  <li> <i class="bi bi-check-circle-fill"></i> UTR of Company</li>
 
-                  <li><i class="bi bi-check-circle-fill"></i> Document Via email</li>
+                  <li> <i class="bi bi-check-circle-fill"></i> Document Via email</li>
 
-                  <li><i class="bi bi-check-circle-fill"></i> Corporate Professional Website</li>
+                  <li> <i class="bi bi-check-circle-fill"></i> Amazon Account Creation</li>
 
-                  <li><i class="bi bi-check-circle-fill"></i> Amazon Account Creation</li>
+                  <li> <i class="bi bi-check-circle-fill"></i> Corporate Professional Website</li>
 
-                  <li>
-                    <i class="bi bi-check-circle-fill"></i>
-                    Everything in Business Starter
-                  </li>
+                  <li> <i class="bi bi-check-circle-fill"></i> Free Professional Email </li>
 
-                  <li>
-                    <i class="bi bi-check-circle-fill"></i>
-                    Domain Included
-                  </li>
+                  <li> <i class="bi bi-check-circle-fill"></i> Free .com or .co.uk domain </li>
 
-                  <li>
-                    <i class="bi bi-check-circle-fill"></i>
-                    Fully Deployed on Hosting Platforms
-                  </li>
+                  <li> <i class="bi bi-check-circle-fill"></i> Fully Deployed on Hosting Platforms </li>
 
                 </ul>
 
@@ -258,7 +303,7 @@
 
                   <li> <i class="bi bi-check-circle-fill"></i> UK LTD Company Formation </li>
 
-                  <li> <i class="bi bi-check-circle-fill"></i> PSC Code Setup </li>
+                  <li> <i class="bi bi-check-circle-fill"></i> UK LTD Verification (PSC Code) </li>
 
                   <li> <i class="bi bi-check-circle-fill"></i> UK Business Bank Account </li>
 
