@@ -81,7 +81,7 @@
                         </li>
 
                         <li>
-                            <a href="{{ url('/#services') }}">Logo Design & Branding</a>
+                            <a href="{{ url('/#services') }}"> Logo Design & Branding</a>
                         </li>
 
                     </ul>
