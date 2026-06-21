@@ -46,7 +46,9 @@
 
                   <li> <i class="bi bi-check-circle-fill"></i> UK LTD Company Formation </li>
 
-                  <li> <i class="bi bi-check-circle-fill"></i> UK LTD Verification ( PSC Code ) </li>
+                  <li title="You will need to share personal code(s) for each officer in the company with us to incorporate your company. If you do not have one, you can get you one at a discounted price of only £25 per person when purchasing this service.">
+                  <i class="bi bi-check-circle-fill"></i>  Companies House ID Verification (PSC Code). Click to read. </li>
+                  {{-- <li> <i class="bi bi-check-circle-fill"></i> UK LTD Verification ( PSC Code ) </li> --}}
 
                   <li> <i class="bi bi-check-circle-fill"></i> Company Fee Included </li>
 
@@ -332,3 +334,38 @@
       </div>
 
     </section><!-- /Pricing 8 Section -->
+
+
+
+
+
+
+<script>
+
+function showPricing(type) {
+
+    const business = document.getElementById('business-pricing');
+    const web = document.getElementById('web-pricing');
+
+    const tabs = document.querySelectorAll('.pricing-tab');
+
+    tabs.forEach(tab => tab.classList.remove('active'));
+
+    if(type === 'business') {
+
+        business.style.display = 'block';
+        web.style.display = 'none';
+
+        tabs[0].classList.add('active');
+
+    } else {
+
+        business.style.display = 'none';
+        web.style.display = 'block';
+
+        tabs[1].classList.add('active');
+
+    }
+}
+
+</script>
