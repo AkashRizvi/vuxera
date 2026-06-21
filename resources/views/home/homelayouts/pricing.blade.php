@@ -19,6 +19,9 @@
 
               <div class="plan-header">
 
+
+{{---------------- Company Formation 1----------------}}
+
                 <div class="plan-icon">
                   <i class="bi bi-building"></i>
                 </div>
@@ -35,7 +38,7 @@
 
                 <div class="price">
                   <span class="currency">£</span>
-                  <span class="amount">159</span>
+                  <span class="amount">125</span>
                 </div>
 
               </div>
@@ -46,9 +49,8 @@
 
                   <li> <i class="bi bi-check-circle-fill"></i> UK LTD Company Formation </li>
 
-                  <li title="You will need to share personal code(s) for each officer in the company with us to incorporate your company. If you do not have one, you can get you one at a discounted price of only £25 per person when purchasing this service.">
-                  <i class="bi bi-check-circle-fill"></i>  Companies House ID Verification (PSC Code). Click to read. </li>
-                  {{-- <li> <i class="bi bi-check-circle-fill"></i> UK LTD Verification ( PSC Code ) </li> --}}
+                  <li class="disabled" title="Each company officer must provide a personal code for company incorporation. If you don’t have one, you can obtain it for £25 per person when purchasing this service.">
+                  <i class="bi bi-x-circle-fill"></i>  Companies House ID Verification (PSC Code). Click to read. </li>
 
                   <li> <i class="bi bi-check-circle-fill"></i> Company Fee Included </li>
 
@@ -62,9 +64,11 @@
 
                   <li> <i class="bi bi-check-circle-fill"></i> Company Gateway ID </li>
 
-                  <li> <i class="bi bi-check-circle-fill"></i> Articles of Association </li>
+                  <li> <i class="bi bi-check-circle-fill"></i> Digital Document Provided </li>
 
                   <li> <i class="bi bi-check-circle-fill"></i> Free Consultation </li>
+
+                  <li><i class="bi bi-check-circle-fill"></i> Use your own address</li>
 
                   <li class="disabled"><i class="bi bi-x-circle-fill"></i> UK Business Bank Account</li>
 
@@ -96,7 +100,11 @@
 
           </div>
 
-          <!-- Professional Plan -->
+
+
+
+
+{{---------------- Business Starter Plan 2----------------}}
           <div class="col-lg-3 col-md-6" data-aos="zoom-in" data-aos-delay="300">
 
             <div class="pricing-card popular">
@@ -121,7 +129,7 @@
 
                 <div class="price">
                   <span class="currency">£</span>
-                  <span class="amount">270</span>
+                  <span class="amount">180</span>
                 </div>
 
               </div>
@@ -132,7 +140,7 @@
 
                   <li> <i class="bi bi-check-circle-fill"></i> UK LTD Company Formation </li>
 
-                  <li> <i class="bi bi-check-circle-fill"></i> UK LTD Verification (PSC Code) </li>
+                  <li> <i class="bi bi-check-circle-fill"></i> Companies House ID Verification (PSC Code) </li>
 
                   <li> <i class="bi bi-check-circle-fill"></i> Company Fee Included </li>
 
@@ -150,8 +158,6 @@
 
                   <li> <i class="bi bi-check-circle-fill"></i> Free Consultation </li>
 
-                  <li> <i class="bi bi-check-circle-fill"></i> UK Business Bank Account </li>
-
                   <li> <i class="bi bi-check-circle-fill"></i> Office Address (3 Months) </li>
 
                   <li><i class="bi bi-check-circle-fill"></i> Authentication Code</li>
@@ -159,6 +165,8 @@
                   <li><i class="bi bi-check-circle-fill"></i> UTR of Company</li>
 
                   <li><i class="bi bi-check-circle-fill"></i> Document Via email</li>
+
+                  <li class="disabled"><i class="bi bi-x-circle-fill"></i> UK Business Bank Account </li>
 
                   <li class="disabled"><i class="bi bi-x-circle-fill"></i> Amazon Account Creation</li>
 
@@ -173,7 +181,7 @@
 
               </div>
 
-  <!-- 3rd Pricing Card -->
+  <!-- Business Pro Pricing Card 3-->
 
               <div class="plan-cta">
                 <a href="#contact" class="btn-plan">Start Business Starter</a>
@@ -217,7 +225,7 @@
 
                    <li> <i class="bi bi-check-circle-fill"></i> UK LTD Company Formation </li>
 
-                  <li> <i class="bi bi-check-circle-fill"></i> UK LTD Verification (PSC Code) </li>
+                  <li> <i class="bi bi-check-circle-fill"></i> Companies House ID Verification (PSC Code) </li>
 
                   <li> <i class="bi bi-check-circle-fill"></i> Company Fee Included </li>
 
