@@ -25,10 +25,6 @@
         @include('home.homelayouts.pricing')
     <!-- /Pricing 8 Section -->
 
-    <!-- Pricing 8 Section -->
-        @include('home.homelayouts.pricing_web')
-    <!-- /Pricing 8 Section -->
-
     <!-- Contact Section -->
         @include('home.homelayouts.contact')
     <!-- /Contact Section -->
